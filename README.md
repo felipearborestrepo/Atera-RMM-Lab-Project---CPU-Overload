@@ -74,7 +74,7 @@ Define what system behavior should trigger alerts.
   - Category: Disk Alerts  
   - Severity: Critical
 
-![Screenshot 2025-06-20 222453](https://github.com/user-attachments/assets/5b40e973-be18-4169-80f2-25900654f1c0)
+![Screenshot 2025-06-20 223054](https://github.com/user-attachments/assets/55c3da52-1981-441f-81e0-55d845b7a5ed)
 
 ![Screenshot 2025-06-20 223054](https://github.com/user-attachments/assets/d511b68b-b8be-4505-b718-9fb857e7a44b)
 
