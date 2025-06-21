@@ -76,7 +76,7 @@ Define what system behavior should trigger alerts.
 
 ![Screenshot 2025-06-20 223054](https://github.com/user-attachments/assets/55c3da52-1981-441f-81e0-55d845b7a5ed)
 
-![Screenshot 2025-06-20 223054](https://github.com/user-attachments/assets/d511b68b-b8be-4505-b718-9fb857e7a44b)
+![Screenshot 2025-06-20 223040](https://github.com/user-attachments/assets/6bda537c-cc40-413f-b977-d230e9209eaf)
 
 ![Screenshot 2025-06-20 223253](https://github.com/user-attachments/assets/8c8a0836-d106-46ff-bc30-f1016a9ab4ee)
 
